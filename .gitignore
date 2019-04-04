@@ -1,0 +1,4 @@
+Docker-Volumes/*
+Kube-Volumes/*
+Development/
+jenkins-x-*.json
