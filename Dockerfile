@@ -1,4 +1,4 @@
-FROM: google/cloud-sdk:241-slim
+FROM google/cloud-sdk:241-slim
 ENV USER jx-user
 ENV USER_HOME /home/$USER
 ENV JX_BIN_DIR $USER_HOME/.jx/bin
