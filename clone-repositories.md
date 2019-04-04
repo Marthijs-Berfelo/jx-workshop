@@ -21,5 +21,5 @@ During the WS several sources are used, these sources need to be cloned.
     ```
 
 Notes:
-  - Windows: use powershell if you don't want to adjust the '~', for command prompt replace the '~' with {path to user home}.
+  - Windows: use powershell if you don't want to adjust the '\~', for command prompt replace the '\~' with {path to user home}.
   - If you prefer a different root for the workshop files, make sure to replace the '~' with this custom path. Also ensure the *-Volumes dirs are owned by your system-user.
