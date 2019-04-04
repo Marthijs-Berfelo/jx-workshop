@@ -1,14 +1,21 @@
 # Getting source repositories
 During the WS several sources are used, these sources need to be cloned.
 
-1. Create the following dir structure
+1. Clone this repository
+```bash
+mkdir ~/jx-workshop
+cd ~/jx-workshop
+git clone [this-repo-clone-url]
+```
+
+2. Create the following dir structure
   ```bash
   ~/jx-workshop/Development
   ~/jx-workshop/Docker-Volumes
   ~/jx-workshop/Kube-Volumes/snacks-db
   ```
 
-1. Clone source repositories
+3. Clone source repositories
   - Change dir to Development
     ```bash
     cd ~/jx-workshop/Development
