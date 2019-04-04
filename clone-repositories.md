@@ -5,7 +5,7 @@ During the WS several sources are used, these sources need to be cloned.
   ```bash
   ~/jx-workshop/Development
   ~/jx-workshop/Docker-Volumes
-  ~/jx-workshop/Kube-Volumes
+  ~/jx-workshop/Kube-Volumes/snacks-db
   ```
 
 1. Clone source repositories
