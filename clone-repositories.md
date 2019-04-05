@@ -25,6 +25,10 @@ git clone [this-repo-clone-url]
     git clone git@github.com:Marthijs-Berfelo/jx-ws-snacks.git
     git clone git@github.com:Marthijs-Berfelo/jx-ws-docker.git
     git clone git@github.com:Marthijs-Berfelo/jx-ws-kube.git
+    
+    git clone https://github.com/Marthijs-Berfelo/jx-ws-snacks.git
+    git clone https://github.com/Marthijs-Berfelo/jx-ws-docker.git
+    git clone https://github.com/Marthijs-Berfelo/jx-ws-kube.git
     ```
 
 Notes:
