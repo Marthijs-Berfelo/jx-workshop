@@ -10,9 +10,9 @@ git clone [this-repo-clone-url]
 
 2. Create the following dir structure
   ```bash
-  ~/jx-workshop/Development
-  ~/jx-workshop/Docker-Volumes
-  ~/jx-workshop/Kube-Volumes/snacks-db
+  mkdir -p ~/jx-workshop/Development
+  mkdir -p ~/jx-workshop/Docker-Volumes
+  mkdir -p ~/jx-workshop/Kube-Volumes/snacks-db
   ```
 
 3. Clone source repositories
@@ -25,6 +25,10 @@ git clone [this-repo-clone-url]
     git clone git@github.com:Marthijs-Berfelo/jx-ws-snacks.git
     git clone git@github.com:Marthijs-Berfelo/jx-ws-docker.git
     git clone git@github.com:Marthijs-Berfelo/jx-ws-kube.git
+    
+    git clone https://github.com/Marthijs-Berfelo/jx-ws-snacks.git
+    git clone https://github.com/Marthijs-Berfelo/jx-ws-docker.git
+    git clone https://github.com/Marthijs-Berfelo/jx-ws-kube.git
     ```
 
 Notes:
