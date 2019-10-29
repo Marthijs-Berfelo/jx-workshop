@@ -1,7 +1,0 @@
-version: "3.4"
-
-services:
-  jx-cluster:
-    image: 272300686681.dkr.ecr.eu-west-1.amazonaws.com/hybrit-dev/jx-workshop-cluster-admin:0.0.5
-    volumes:
-      - "/home/marthijs/.config/gcloud:/home/jx-user/.config/gcloud"
