@@ -3,11 +3,8 @@ Docker-Volumes/*
 !Kube-Volumes/.gitkeep
 Kube-Volumes/*
 !Development/.gitkeep
-Development/snacks/
-Development/jx-ws-snacks/
-Development/jx-ws-docker/
-Development/jx-ws-kube/
-jenkins-x-*.json
+*.iml
+.idea/
 target/
 pom.xml.tag
 pom.xml.releaseBackup
