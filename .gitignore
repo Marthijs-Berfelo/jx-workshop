@@ -3,7 +3,10 @@ Docker-Volumes/*
 !Kube-Volumes/.gitkeep
 Kube-Volumes/*
 !Development/.gitkeep
-Development/
+Development/snacks/
+Development/jx-ws-snacks/
+Development/jx-ws-docker/
+Development/jx-ws-kube/
 jenkins-x-*.json
 target/
 pom.xml.tag

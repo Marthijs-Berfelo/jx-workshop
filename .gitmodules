@@ -1,0 +1,9 @@
+[submodule "snacks-api"]
+	path = Development/snacks-api
+	url = git@github.com:Marthijs-Berfelo/jx-ws-snacks.git
+[submodule "docker-deploy"]
+	path = Development/docker-deploy
+	url = git@github.com:Marthijs-Berfelo/jx-ws-docker.git
+[submodule "kubernetes-deploy"]
+	path = Development/kubernetes-deploy
+	url = git@github.com:Marthijs-Berfelo/jx-ws-kube.git
